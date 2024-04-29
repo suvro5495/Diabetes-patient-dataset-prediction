@@ -11,7 +11,13 @@ In the heart of this repository lies a treasure trove of medical predictor varia
     The distribution of the target variable 'Outcome' is visualized using value_counts() and a bar plot.
     The distribution of 'Age' is plotted using a histogram.
     Univariate analysis is performed on numerical features using distplot() from seaborn.
-    
+
+![Alt Text](https://www.samyzaf.com/ML/pima/pima2.png)
+![Alt Text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*PWFEcWvZleD7S0MNvrf6-A.png)
+![Alt Text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*-ZLywey14XpzNcgdsxNA1g.png)
+![Alt Text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*-_gIgavUFst4tUdN0R-dmA.png)
+![Alt Text](https://miro.medium.com/v2/resize:fit:640/format:webp/1*9PK2tuX7i5PnnTZQp4W74Q.png)
+
 ## Data Preprocessing Symphony:
 The journey begins with data preprocessing, a symphony of Pandas and NumPy, where missing values are mended, features are scaled, and the dataset is split into training and testing sets. 🎻
 i. Missing values are identified using isnull().sum() and visualized with missingno.bar().
@@ -71,3 +77,11 @@ iv. Evaluation: The ML-based system demonstrated an overall accuracy of 90.62%, 
 
 ## 🌈 Conclusion - A Symphony of Science and Technology:
 In the realm of data science and machine learning, the "Diabetes-patient-dataset-prediction" repository stands as a beacon of innovation and discovery. 🚀 Through meticulous data preprocessing, model training, and evaluation, this experiment transcends boundaries to predict diabetes with unprecedented accuracy and insight. Let this repository be a guiding light for future explorers in the vast universe of healthcare analytics. 🌠
+
+## Resources URL: 
+    1. https://www.samyzaf.com/ML/pima/pima.html 
+    2. https://www.linkedin.com/pulse/pima-indians-diabetes-database-devanshu-ramaiya/
+    3. https://towardsdatascience.com/pima-indians-diabetes-prediction-knn-visualization-5527c154afff
+    4. https://medium.com/@ananya_bt18/decision-tree-classification-on-diabetes-dataset-using-python-scikit-learn-package-f7be624c344e
+    5. https://devanshu125.github.io/diabetes/
+    6. https://medium.com/@sarakarim/pima-indians-diabetes-prediction-using-decision-tree-in-google-colab-419b443a4525
